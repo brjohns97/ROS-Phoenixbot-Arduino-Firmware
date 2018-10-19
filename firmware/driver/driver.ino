@@ -1,7 +1,7 @@
 #include <Servo.h>
 #define ZEROPOINT 1500
 #define BUFF_SIZE 64
-//#define DEBUG hello
+//#define DEBUG
 
 //drive 7 & 11, unused 12-13 & 44-46
 const char pwm[] = {2,3,4,5,6,7,11,12,13,44,45,46};
